@@ -1,15 +1,7 @@
-Welcome to your new dbt project!
+This repo contains the dbt project with my approach to the __SQL refactoring exercise__ for the course [Refactoring SQL for Modularity](https://courses.getdbt.com/courses/refactoring-sql-for-modularity) by [dbl Labs](https://www.getdbt.com/).
 
-### Using the starter project
-
-Try running the following commands:
-- dbt run
-- dbt test
 
 
 ### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [dbt community](http://community.getbdt.com/) to learn from other analytics engineers
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+- The [commits](https://github.com/dbt-labs/dbt-learn-group-training/pull/6/commits) with the steps performed by the instructor in the course (part 2) for comparison.
+- A [summary in PDF](https://import.cdn.thinkific.com/342803/courses/1531277/RefactoringSQLforModularityOnePager-211013-101255.pdf) with the best practice steps for refactoring SQL in __dbt__.
